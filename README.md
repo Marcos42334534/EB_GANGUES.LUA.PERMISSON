@@ -1,0 +1,2 @@
+# EB_GANGUES.LUA.PERMISSON
+Gangues
