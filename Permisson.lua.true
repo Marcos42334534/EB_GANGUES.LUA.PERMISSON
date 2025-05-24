@@ -13,7 +13,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[0] = { 
-		Nome = 'Amendobobos',
+		Nome = 'Scarlety', -- faltando colocar (Demon Bash, Foice, SocoEletrico, Shuriken Explosiva, Impulso Sombrio, Mundo Transparente, Dobule jump
 		Vida = 3000,
 		Itens = {['ChuteEletrico'] = 0,['Colateral'] = 0,['Dash'] = 0,['Thunder'] = 0,['DoubleJump'] = 0,['MinatoKunai'] = 0,['SusanooSlap'] = 0,['Hinokami_1'] = 0,['Foice'] = 0,['Rinnegan_Push'] = 0,
 		['Meteoro'] = 0,['ShurikenExplosiva'] = 0,['PisoVento'] = 0},
