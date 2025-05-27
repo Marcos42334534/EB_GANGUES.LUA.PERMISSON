@@ -114,7 +114,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[35769861] = {   -- [Dono ID:3313535975 ] -- gangue nova (faltando alterar cor e shirt)
+	[35769861] = {   -- [Dono ID:3313535975 ] slot 15 -- gangue nova (faltando alterar cor e shirt)
 		Nome = 'Souls Dragons',
 		Vida = 2000,
 		Itens = {['Soco'] = 0,},
