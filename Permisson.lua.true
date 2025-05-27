@@ -114,10 +114,10 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[33386384] = {   -- [Dono ID:2948781812 ] slot 15 (HP AUMENTADO)
-		Nome = 'Clã Uchiha',
+	[33386384] = {   -- [Dono ID:3313535975 ] -- gangue nova (faltando alterar cor e shirt)
+		Nome = 'Souls Dragons',
 		Vida = 2000,
-		Itens = {['Mikey'] = 0,['Dash'] = 0},
+		Itens = {['Soco'] = 0,},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 0, 0}},
